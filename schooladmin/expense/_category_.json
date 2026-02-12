@@ -1,0 +1,8 @@
+{
+    "label": "Expense",
+    "position": 18,
+    "link": {
+        "type": "generated-index",
+        "description": "Expense management features for the e-School SaaS School Admin"
+    }
+}

@@ -1,0 +1,30 @@
+/**
+ * Global CSS for Docusaurus site.
+ * Infima variables customized with new color palette.
+ */
+
+:root {
+  --ifm-color-primary: #205479;
+  --ifm-color-primary-dark: #1d4c6c;
+  --ifm-color-primary-darker: #1a4562;
+  --ifm-color-primary-darkest: #163a53;
+  --ifm-color-primary-light: #276197;
+  --ifm-color-primary-lighter: #2e6db2;
+  --ifm-color-primary-lightest: #3a83d9;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #4a9cd6;
+  --ifm-color-primary-dark: #438dc0;
+  --ifm-color-primary-darker: #3f84b4;
+  --ifm-color-primary-darkest: #356f98;
+  --ifm-color-primary-light: #5aa7db;
+  --ifm-color-primary-lighter: #6cb0df;
+  --ifm-color-primary-lightest: #88bfe5;
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}

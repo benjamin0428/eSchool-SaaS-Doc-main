@@ -1,0 +1,8 @@
+{
+    "label": "Offline Exam",
+    "position": 15,
+    "link": {
+        "type": "generated-index",
+        "description": "Offline exam management features for the e-School SaaS School Admin"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "label": "Certificate and ID Card",
+    "position": 22,
+    "link": {
+        "type": "generated-index",
+        "description": "Certificate and ID Card management features for the e-School SaaS School Admin"
+    }
+}

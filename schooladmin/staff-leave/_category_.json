@@ -1,0 +1,8 @@
+{
+    "label": "Staff Leave",
+    "position": 24,
+    "link": {
+        "type": "generated-index",
+        "description": "Staff leave management features for the e-School SaaS School Admin"
+    }
+}

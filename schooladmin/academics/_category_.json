@@ -1,0 +1,8 @@
+{
+    "label": "Academics",
+    "position": 5,
+    "link": {
+        "type": "generated-index",
+        "description": "Academic management features for the e-School SaaS School Admin"
+    }
+}

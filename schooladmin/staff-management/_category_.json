@@ -1,0 +1,8 @@
+{
+    "label": "Staff Management",
+    "position": 23,
+    "link": {
+        "type": "generated-index",
+        "description": "Staff management features for the e-School SaaS School Admin"
+    }
+}

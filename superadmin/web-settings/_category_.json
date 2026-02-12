@@ -1,0 +1,8 @@
+{
+    "label": "Web Settings",
+    "position": 12,
+    "link": {
+        "type": "generated-index",
+        "description": "Web settings for the e-School SaaS Super Admin Panel"
+    }
+}

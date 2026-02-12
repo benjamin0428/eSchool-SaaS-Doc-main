@@ -1,0 +1,8 @@
+{
+    "label": "Students",
+    "position": 6,
+    "link": {
+        "type": "generated-index",
+        "description": "Student management features for the e-School SaaS School Admin"
+    }
+}

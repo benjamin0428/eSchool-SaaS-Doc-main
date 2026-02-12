@@ -1,0 +1,8 @@
+{
+    "label": "Teachers",
+    "position": 7,
+    "link": {
+        "type": "generated-index",
+        "description": "Teacher management features for the e-School SaaS School Admin"
+    }
+}

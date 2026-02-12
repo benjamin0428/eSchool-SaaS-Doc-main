@@ -1,0 +1,8 @@
+{
+    "label": "Attendance",
+    "position": 13,
+    "link": {
+        "type": "generated-index",
+        "description": "Attendance management features for the e-School SaaS School Admin"
+    }
+}

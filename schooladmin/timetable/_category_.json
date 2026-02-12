@@ -1,0 +1,8 @@
+{
+    "label": "Timetable",
+    "position": 8,
+    "link": {
+        "type": "generated-index",
+        "description": "Timetable management features for the e-School SaaS School Admin"
+    }
+}
